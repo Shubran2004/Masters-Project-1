@@ -11,3 +11,9 @@ $$
 $$
 \frac{\partial T}{\partial t} + \mathbf{u} \cdot \nabla T = \alpha_c \nabla^2 T 
 $$
+$$
+\mathbf{f}_m = \mu_0 \chi_c \nabla \frac{\mathbf{H}^2}{2} - \mu_0 \chi_c \beta_m (T - T_c) \nabla \frac{\mathbf{H}^2}{2}
+$$
+$$
+\mathbf{f}_g = \rho_c g \hat{\mathbf{e}}_y + \rho_c g \beta (T - T_c) \hat{\mathbf{e}}_y
+$$
